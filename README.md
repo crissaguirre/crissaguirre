@@ -7,7 +7,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=caguirre2000&label=Profile%20views&color=0047AB&style=plastic?" alt="caguirre2000" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=crissaguirre&label=Profile%20views&color=0047AB&style=plastic?" alt="crissaguirre" height=25px, width=160px/> 
 </p>
 
 	
@@ -39,7 +39,7 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:cristian.aguirre@upeu.edu.pe"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/caguirre2000"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/crissaguirre"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/cristian-wilson-aguirre-calancho-7204b91b0/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/criiss.ac_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
@@ -140,7 +140,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=caguirre2000&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=crissaguirre&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 
 </details>
   
@@ -149,9 +149,9 @@
 ----
 	
 <p align="center">
-    <a href="https://github.com/caguirre2000/github-readme-stats">
-	    <img alt="caguirre2000's Github Stats" src="https://github-readme-stats.vercel.app/api?username=caguirre2000&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caguirre2000&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+    <a href="https://github.com/crissaguirre/github-readme-stats">
+	    <img alt="crissaguirre's Github Stats" src="https://github-readme-stats.vercel.app/api?username=crissaguirre&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crissaguirre&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -162,7 +162,7 @@
 
 ----
 	
-[![caguirre2000's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=caguirre2000&theme=github	)](https://github.com/caguirre2000/github-readme-activity-graph)
+[![crissaguirre's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=crissaguirre&theme=github	)](https://github.com/crissaguirre/github-readme-activity-graph)
 
  
 </details>
@@ -173,8 +173,8 @@
 	
 <div>
   <p align="center">
-    	<a href="https://github.com/caguirre2000/MyLazyVim">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=caguirre2000&repo=MyLazyVim&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/crissaguirre/MyLazyVim">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=crissaguirre&repo=MyLazyVim&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
